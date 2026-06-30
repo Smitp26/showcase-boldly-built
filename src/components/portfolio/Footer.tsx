@@ -1,8 +1,7 @@
 import { Github, Linkedin, Mail } from "lucide-react";
 
-// TODO: replace placeholder URLs
-const LINKEDIN_URL = "https://www.linkedin.com/in/your-linkedin";
-const GITHUB_URL = "https://github.com/yourusername";
+const LINKEDIN_URL = "https://www.linkedin.com/in/smit-parmar7";
+const GITHUB_URL = "https://github.com/Smitp26";
 
 export function Footer() {
   const year = new Date().getFullYear();

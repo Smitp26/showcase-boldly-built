@@ -2,9 +2,8 @@ import { Mail, Phone, MapPin, Linkedin, Github } from "lucide-react";
 import { useReveal } from "@/hooks/use-reveal";
 import { SectionLabel } from "./About";
 
-// NOTE: Replace placeholder LinkedIn / GitHub URLs with real ones.
-const LINKEDIN_URL = "https://www.linkedin.com/in/your-linkedin"; // TODO: replace
-const GITHUB_URL = "https://github.com/yourusername"; // TODO: replace
+const LINKEDIN_URL = "https://www.linkedin.com/in/smit-parmar7";
+const GITHUB_URL = "https://github.com/Smitp26";
 
 const channels = [
   {
