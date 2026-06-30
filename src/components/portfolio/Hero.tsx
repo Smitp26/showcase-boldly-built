@@ -53,7 +53,7 @@ export function Hero() {
           </div>
 
           <h1 className="font-display font-bold text-5xl sm:text-6xl lg:text-8xl leading-[0.95] tracking-tight">
-            Hi, I'm <span className="text-gradient">Smit</span>.
+            Hi, I'm <span className="text-gradient">Smit</span>.<br />
           </h1>
 
           <p className="mt-8 max-w-2xl text-lg text-muted-foreground leading-relaxed">
