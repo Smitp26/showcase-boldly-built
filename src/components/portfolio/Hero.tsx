@@ -54,18 +54,6 @@ export function Hero() {
 
           <h1 className="font-display font-bold text-5xl sm:text-6xl lg:text-8xl leading-[0.95] tracking-tight">
             Hi, I'm <span className="text-gradient">Smit</span>.
-            <br />
-            I build
-            <br />
-            <span className="relative inline-block">
-              <span
-                key={idx}
-                className="text-gradient-warm inline-block animate-fade-in"
-              >
-                {roles[idx]}
-              </span>
-              <span className="inline-block w-1 h-[0.9em] ml-2 bg-[var(--magenta)] animate-pulse align-middle" />
-            </span>
           </h1>
 
           <p className="mt-8 max-w-2xl text-lg text-muted-foreground leading-relaxed">
